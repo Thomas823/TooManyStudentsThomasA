@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 3 (Decisions)\TooManyStudentsThomasA\TooManyStudentsThomasA\bin\Debug\TooManyStudentsThomasA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 3 (Decisions)\TooManyStudentsThomasA\TooManyStudentsThomasA\bin\Debug\TooManyStudentsThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 3 (Decisions)\TooManyStudentsThomasA\TooManyStudentsThomasA\bin\Debug\TooManyStudentsThomasA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 3 (Decisions)\TooManyStudentsThomasA\TooManyStudentsThomasA\obj\Debug\TooManyStudentsThomasA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 3 (Decisions)\TooManyStudentsThomasA\TooManyStudentsThomasA\obj\Debug\TooManyStudentsThomasA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 3 (Decisions)\TooManyStudentsThomasA\TooManyStudentsThomasA\obj\Debug\TooManyStudentsThomasA.frmTooManyStudents.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 3 (Decisions)\TooManyStudentsThomasA\TooManyStudentsThomasA\obj\Debug\TooManyStudentsThomasA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 3 (Decisions)\TooManyStudentsThomasA\TooManyStudentsThomasA\obj\Debug\TooManyStudentsThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Unit 3 (Decisions)\TooManyStudentsThomasA\TooManyStudentsThomasA\obj\Debug\TooManyStudentsThomasA.pdb
