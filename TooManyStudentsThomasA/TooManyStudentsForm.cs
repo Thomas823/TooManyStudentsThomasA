@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+    * Created by: Thomas Aubin
+    * Created on: 25 April, 2018
+    * Created for: ICS3U Programming
+    * Daily Assignment – Day #15 - Too Many Students
+    * This program tells the user if they have too many students, or if they have more then 24 students
+*/
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
